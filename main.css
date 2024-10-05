@@ -1,0 +1,14 @@
+.box {
+    border: 1px solid black;
+    padding: 0.5rem;
+    background: transparent;
+    outline: none;
+}
+
+.box-res {
+    border: 1px solid black;
+    padding: 0.5rem;
+    background: oklch(var(--a));
+    color: oklch(var(--ac));
+    outline: none;
+}
